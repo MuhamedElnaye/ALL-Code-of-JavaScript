@@ -1,0 +1,8 @@
+{
+  "name": "Muhemed",
+  "age": 23,
+  "Countery": { "EG": "Egypt", "KsA": "Riyde" },
+  "array": [1, 2, 3, 4, 5],
+  "availabel": true,
+  "Null": null
+}
