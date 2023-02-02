@@ -1,2 +1,2 @@
 # ALL-Code-of-JavaScript
-ALL Code of JavaScript el--zero0
+ALL Code of Course JavaScript el--zero0
